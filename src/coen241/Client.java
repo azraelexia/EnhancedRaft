@@ -7,9 +7,10 @@ public class Client {
     public static void main() {
     int i;
     int j;
-
-
-    int b;
-    int c;
+    int a;
     }
+    public int helper() {
+        return 1;
+    }
+
 }
