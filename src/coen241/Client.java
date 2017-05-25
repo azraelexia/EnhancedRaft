@@ -8,5 +8,8 @@ public class Client {
     int i;
     int j;
 
+
+    int b;
+    int c;
     }
 }
