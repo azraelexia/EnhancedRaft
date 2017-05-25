@@ -6,6 +6,7 @@ package coen241;
 public class Client {
     public static void main() {
     int i;
+    int j;
 
     }
 }
