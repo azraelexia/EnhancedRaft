@@ -9,4 +9,8 @@ public class Client {
     int j;
     int a;
     }
+    public int helper() {
+        return 1;
+    }
+
 }
