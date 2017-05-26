@@ -8,6 +8,8 @@ public class Client {
     int a;
 
     }
+    public void add(){
+    }
 
     public void cry() {
         return;
