@@ -5,7 +5,7 @@ package coen241;
  */
 public class Client {
     public static void main() {
-    int b;
+    int c;
 
     }
 
