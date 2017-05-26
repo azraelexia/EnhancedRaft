@@ -8,9 +8,11 @@ public class Client {
     int i;
     int j;
     int a;
+
+
+    int b;
+    int c;
     }
-    public int helper() {
-        return 1;
-    }
+
 
 }
