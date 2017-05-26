@@ -9,5 +9,9 @@ public class Client {
 
     }
 
+    public void cry() {
+        return;
+    }
+
 
 }
